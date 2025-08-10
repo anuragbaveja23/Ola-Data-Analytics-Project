@@ -78,7 +78,7 @@ The project simulates a real-world ride-hailing analytics scenario, focusing on 
 
 ## 📌 Dashboard Preview
 *(Add a screenshot here once available)*  
-![Dashboard Preview](docs/screenshots/dashboard.png)
+
 
 ---
 
