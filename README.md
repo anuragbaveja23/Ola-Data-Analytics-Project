@@ -20,16 +20,7 @@ The project simulates a real-world ride-hailing analytics scenario, focusing on 
 | **Power BI**  | Data visualization, KPI tracking, and dashboards |
 
 
-## 🎯 Business Problem Statement
-**From a customer perspective**  
-- Reduce wait time  
-- Improve on-time pickups  
-- Ensure transparent pricing & ride reliability
 
-**From a business perspective**  
-- Monitor demand hotspots & supply gaps  
-- Optimize driver utilization & incentives  
-- Reduce cancellations & improve operational efficiency
 
 ---
 
