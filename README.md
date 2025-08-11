@@ -53,8 +53,8 @@ The project simulates a real-world ride-hailing analytics scenario, focusing on 
    - Import summary tables  
    - Create KPIs and interactive visuals with DAX  
 4. **Documentation**  
-   - Export report screenshots to `/docs/screenshots/`  
-   - Maintain metric definitions in `/docs/metrics.md`
+- Export report screenshots to  
+- Maintain metric definitions in 
 
 ---
 
